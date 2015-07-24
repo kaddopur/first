@@ -1,6 +1,10 @@
 body {
+  font-family: Monaco, monospace;
+  font-size: 12px;
+  line-height: 2em;
   padding-top: 50px;
 }
+
 .starter-template {
   padding: 40px 15px;
   text-align: center;
